@@ -26,6 +26,4 @@ email : zawad@gmail.com
 password : zawadadmin
 
 
-#Sample Login for Guest :
-email : peepee@gmail.com
-password : peepee3
+
